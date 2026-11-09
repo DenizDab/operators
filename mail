@@ -1,0 +1,22 @@
+#operators
+
+#1.arithmetic
+#2.+addition
+#3.-subtraction
+#4./division
+#5.*multiplication
+#6.%modulus
+#7.**exponent
+#8.// floor divison
+
+
+number1=int(input("enter first number"))
+number2=int(input("enter second number"))
+
+print("addition:",number1+number2)
+print("subtraction:",number1-number2)
+print("division:",number1/number2)
+print("multiplication:",number1*number2)
+print("exponent:",number1**number2)
+print("modulus:",number1%number2)
+print("floor divition",number1//number2)
